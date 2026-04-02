@@ -24,6 +24,7 @@ token.json
 gmail_token.json
 credentials.json
 config.json
+temp_flow.json
 *.key
 *.pem
 .env
